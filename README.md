@@ -4,10 +4,9 @@
 ### <div align="center"></div>  
   
 
-- 🌱 I’m currently learning Java and Javascript  
+- 🌱 I’m currently learning Python, Java, Javascript  
   
 
-- ❓ Ask me about anything  
   
 
 <br/>  
