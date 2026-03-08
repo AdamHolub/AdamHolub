@@ -32,11 +32,12 @@
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   
-<br><br>
+<br>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamholub&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AdamHolub&layout=compact&theme=tokyonight"/>
 </p>
 
 
