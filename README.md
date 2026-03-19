@@ -1,14 +1,15 @@
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=600&center=true&vCenter=true&lines=%F0%9F%91%8B+Hello,+World!+I'm+Adam+Holub.;Software+Engineering+Student." alt="Typing SVG" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=header&reversal=true" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=600&center=true&vCenter=true&lines=%F0%9F%91%8B+Hello,+World!+I'm+Adam+Holub.;Software+Engineering+Student." />
+
+</div>
 
 <br>
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+## 👨‍💻 **About Me:**
 
 <img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
@@ -20,7 +21,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+## 💻 **Languages & Tools:**
 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -42,8 +43,10 @@
 
 
 
-## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="40"> **Github Stats:**
+## 📊 **Github Stats:**
 
 <p align="center">
  <a href="https://github.com/AdamHolub"><img src="https://streak-stats.demolab.com?user=adamholub&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer&reversal=true" />
